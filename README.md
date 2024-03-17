@@ -1,6 +1,6 @@
 ![Header](https://github.com/shabir-mp/Express_Booking.id/assets/133546000/dc76c807-15f6-4bb2-aa6f-f6aba99b362b)
 
-# Rock-Paper-Scissors
+# Roshambo / Rock-Paper-Scissors
 > [!NOTE]
 > Rock-Paper-Scissors is a classic game that can be played by two people. The game is played by each player simultaneously forming one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors".
 
