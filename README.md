@@ -1,4 +1,4 @@
-![dribbble_13](https://github.com/shabir-mp/Express_Booking.id/assets/133546000/dc76c807-15f6-4bb2-aa6f-f6aba99b362b)
+![Header](https://github.com/shabir-mp/Express_Booking.id/assets/133546000/dc76c807-15f6-4bb2-aa6f-f6aba99b362b)
 
 # Rock-Paper-Scissors
 > [!NOTE]
@@ -8,11 +8,8 @@
 
 1. Each player chooses one of the three shapes: rock, paper, or scissors.
 2. The players reveal their choices at the same time.
-3. The winner is determined by the following rules:
-a. Rock beats scissors (rock crushes scissors)
-b. Scissors beats paper (scissors cuts paper)
-c. Paper beats rock (paper covers rock)
-d, If both players choose the same shape, the game is tied.
+3. The winner is determined by the following rules: Rock beats scissors (rock crushes scissors), Scissors beats paper (scissors cuts paper), Paper beats rock (paper covers rock)
+4. If both players choose the same shape, the game is tied.
 
 ## History of Rock-Paper-Scissors
 
